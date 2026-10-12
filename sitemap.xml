@@ -1,6 +1,167 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://YOUR-DOMAIN.hu/</loc></url>
-  <url><loc>https://YOUR-DOMAIN.hu/adatvedelem.html</loc></url>
-  <url><loc>https://YOUR-DOMAIN.hu/impresszum.html</loc></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url><loc>https://YOUR-DOMAIN.hu/hu/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://YOUR-DOMAIN.hu/hu/index.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://YOUR-DOMAIN.hu/en/index.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://YOUR-DOMAIN.hu/de/index.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://YOUR-DOMAIN.hu/hu/index.html"/>
+  </url>
+  <url><loc>https://YOUR-DOMAIN.hu/hu/tokaji-borok.html</loc>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://YOUR-DOMAIN.hu/hu/tokaji-borok.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://YOUR-DOMAIN.hu/en/tokaji-borok.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://YOUR-DOMAIN.hu/de/tokaji-borok.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://YOUR-DOMAIN.hu/hu/tokaji-borok.html"/>
+  </url>
+  <url><loc>https://YOUR-DOMAIN.hu/hu/szolofajtak.html</loc>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://YOUR-DOMAIN.hu/hu/szolofajtak.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://YOUR-DOMAIN.hu/en/szolofajtak.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://YOUR-DOMAIN.hu/de/szolofajtak.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://YOUR-DOMAIN.hu/hu/szolofajtak.html"/>
+  </url>
+  <url><loc>https://YOUR-DOMAIN.hu/hu/borvidek.html</loc>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://YOUR-DOMAIN.hu/hu/borvidek.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://YOUR-DOMAIN.hu/en/borvidek.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://YOUR-DOMAIN.hu/de/borvidek.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://YOUR-DOMAIN.hu/hu/borvidek.html"/>
+  </url>
+  <url><loc>https://YOUR-DOMAIN.hu/hu/boraszatok.html</loc>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://YOUR-DOMAIN.hu/hu/boraszatok.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://YOUR-DOMAIN.hu/en/boraszatok.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://YOUR-DOMAIN.hu/de/boraszatok.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://YOUR-DOMAIN.hu/hu/boraszatok.html"/>
+  </url>
+  <url><loc>https://YOUR-DOMAIN.hu/hu/tudastar.html</loc>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://YOUR-DOMAIN.hu/hu/tudastar.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://YOUR-DOMAIN.hu/en/tudastar.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://YOUR-DOMAIN.hu/de/tudastar.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://YOUR-DOMAIN.hu/hu/tudastar.html"/>
+  </url>
+  <url><loc>https://YOUR-DOMAIN.hu/hu/kereses.html</loc>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://YOUR-DOMAIN.hu/hu/kereses.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://YOUR-DOMAIN.hu/en/kereses.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://YOUR-DOMAIN.hu/de/kereses.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://YOUR-DOMAIN.hu/hu/kereses.html"/>
+  </url>
+  <url><loc>https://YOUR-DOMAIN.hu/hu/adatvedelem.html</loc>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://YOUR-DOMAIN.hu/hu/adatvedelem.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://YOUR-DOMAIN.hu/en/adatvedelem.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://YOUR-DOMAIN.hu/de/adatvedelem.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://YOUR-DOMAIN.hu/hu/adatvedelem.html"/>
+  </url>
+  <url><loc>https://YOUR-DOMAIN.hu/hu/impresszum.html</loc>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://YOUR-DOMAIN.hu/hu/impresszum.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://YOUR-DOMAIN.hu/en/impresszum.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://YOUR-DOMAIN.hu/de/impresszum.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://YOUR-DOMAIN.hu/hu/impresszum.html"/>
+  </url>
+  <url><loc>https://YOUR-DOMAIN.hu/en/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://YOUR-DOMAIN.hu/hu/index.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://YOUR-DOMAIN.hu/en/index.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://YOUR-DOMAIN.hu/de/index.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://YOUR-DOMAIN.hu/hu/index.html"/>
+  </url>
+  <url><loc>https://YOUR-DOMAIN.hu/en/tokaji-borok.html</loc>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://YOUR-DOMAIN.hu/hu/tokaji-borok.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://YOUR-DOMAIN.hu/en/tokaji-borok.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://YOUR-DOMAIN.hu/de/tokaji-borok.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://YOUR-DOMAIN.hu/hu/tokaji-borok.html"/>
+  </url>
+  <url><loc>https://YOUR-DOMAIN.hu/en/szolofajtak.html</loc>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://YOUR-DOMAIN.hu/hu/szolofajtak.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://YOUR-DOMAIN.hu/en/szolofajtak.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://YOUR-DOMAIN.hu/de/szolofajtak.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://YOUR-DOMAIN.hu/hu/szolofajtak.html"/>
+  </url>
+  <url><loc>https://YOUR-DOMAIN.hu/en/borvidek.html</loc>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://YOUR-DOMAIN.hu/hu/borvidek.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://YOUR-DOMAIN.hu/en/borvidek.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://YOUR-DOMAIN.hu/de/borvidek.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://YOUR-DOMAIN.hu/hu/borvidek.html"/>
+  </url>
+  <url><loc>https://YOUR-DOMAIN.hu/en/boraszatok.html</loc>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://YOUR-DOMAIN.hu/hu/boraszatok.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://YOUR-DOMAIN.hu/en/boraszatok.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://YOUR-DOMAIN.hu/de/boraszatok.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://YOUR-DOMAIN.hu/hu/boraszatok.html"/>
+  </url>
+  <url><loc>https://YOUR-DOMAIN.hu/en/tudastar.html</loc>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://YOUR-DOMAIN.hu/hu/tudastar.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://YOUR-DOMAIN.hu/en/tudastar.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://YOUR-DOMAIN.hu/de/tudastar.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://YOUR-DOMAIN.hu/hu/tudastar.html"/>
+  </url>
+  <url><loc>https://YOUR-DOMAIN.hu/en/kereses.html</loc>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://YOUR-DOMAIN.hu/hu/kereses.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://YOUR-DOMAIN.hu/en/kereses.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://YOUR-DOMAIN.hu/de/kereses.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://YOUR-DOMAIN.hu/hu/kereses.html"/>
+  </url>
+  <url><loc>https://YOUR-DOMAIN.hu/en/adatvedelem.html</loc>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://YOUR-DOMAIN.hu/hu/adatvedelem.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://YOUR-DOMAIN.hu/en/adatvedelem.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://YOUR-DOMAIN.hu/de/adatvedelem.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://YOUR-DOMAIN.hu/hu/adatvedelem.html"/>
+  </url>
+  <url><loc>https://YOUR-DOMAIN.hu/en/impresszum.html</loc>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://YOUR-DOMAIN.hu/hu/impresszum.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://YOUR-DOMAIN.hu/en/impresszum.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://YOUR-DOMAIN.hu/de/impresszum.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://YOUR-DOMAIN.hu/hu/impresszum.html"/>
+  </url>
+  <url><loc>https://YOUR-DOMAIN.hu/de/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://YOUR-DOMAIN.hu/hu/index.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://YOUR-DOMAIN.hu/en/index.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://YOUR-DOMAIN.hu/de/index.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://YOUR-DOMAIN.hu/hu/index.html"/>
+  </url>
+  <url><loc>https://YOUR-DOMAIN.hu/de/tokaji-borok.html</loc>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://YOUR-DOMAIN.hu/hu/tokaji-borok.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://YOUR-DOMAIN.hu/en/tokaji-borok.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://YOUR-DOMAIN.hu/de/tokaji-borok.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://YOUR-DOMAIN.hu/hu/tokaji-borok.html"/>
+  </url>
+  <url><loc>https://YOUR-DOMAIN.hu/de/szolofajtak.html</loc>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://YOUR-DOMAIN.hu/hu/szolofajtak.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://YOUR-DOMAIN.hu/en/szolofajtak.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://YOUR-DOMAIN.hu/de/szolofajtak.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://YOUR-DOMAIN.hu/hu/szolofajtak.html"/>
+  </url>
+  <url><loc>https://YOUR-DOMAIN.hu/de/borvidek.html</loc>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://YOUR-DOMAIN.hu/hu/borvidek.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://YOUR-DOMAIN.hu/en/borvidek.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://YOUR-DOMAIN.hu/de/borvidek.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://YOUR-DOMAIN.hu/hu/borvidek.html"/>
+  </url>
+  <url><loc>https://YOUR-DOMAIN.hu/de/boraszatok.html</loc>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://YOUR-DOMAIN.hu/hu/boraszatok.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://YOUR-DOMAIN.hu/en/boraszatok.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://YOUR-DOMAIN.hu/de/boraszatok.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://YOUR-DOMAIN.hu/hu/boraszatok.html"/>
+  </url>
+  <url><loc>https://YOUR-DOMAIN.hu/de/tudastar.html</loc>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://YOUR-DOMAIN.hu/hu/tudastar.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://YOUR-DOMAIN.hu/en/tudastar.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://YOUR-DOMAIN.hu/de/tudastar.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://YOUR-DOMAIN.hu/hu/tudastar.html"/>
+  </url>
+  <url><loc>https://YOUR-DOMAIN.hu/de/kereses.html</loc>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://YOUR-DOMAIN.hu/hu/kereses.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://YOUR-DOMAIN.hu/en/kereses.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://YOUR-DOMAIN.hu/de/kereses.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://YOUR-DOMAIN.hu/hu/kereses.html"/>
+  </url>
+  <url><loc>https://YOUR-DOMAIN.hu/de/adatvedelem.html</loc>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://YOUR-DOMAIN.hu/hu/adatvedelem.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://YOUR-DOMAIN.hu/en/adatvedelem.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://YOUR-DOMAIN.hu/de/adatvedelem.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://YOUR-DOMAIN.hu/hu/adatvedelem.html"/>
+  </url>
+  <url><loc>https://YOUR-DOMAIN.hu/de/impresszum.html</loc>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://YOUR-DOMAIN.hu/hu/impresszum.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://YOUR-DOMAIN.hu/en/impresszum.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://YOUR-DOMAIN.hu/de/impresszum.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://YOUR-DOMAIN.hu/hu/impresszum.html"/>
+  </url>
+  <url><loc>https://YOUR-DOMAIN.hu/</loc>
+  </url>
 </urlset>
