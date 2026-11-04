@@ -1,0 +1,1 @@
+Configure tokajkalauz.hu as a permanent 301 redirect to https://tokajiwine.hu/hu/ . Enable HTTPS for both domains. Upload this website folder to the document root of tokajiwine.hu.
